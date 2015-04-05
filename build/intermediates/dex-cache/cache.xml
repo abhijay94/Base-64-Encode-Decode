@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/abhijay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1f74c761a90200ceb4f1255ce0bb28af4f7e6c10.jar" />
+    </item>
+    <item
+        jar="/home/abhijay/Base64ED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/debug/classes-6ec444f64d794ed607eceb4afa9b679162db2e43.jar" />
+    </item>
+    <item
+        jar="/home/abhijay/Base64ED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/debug/classes-58b00526c0aaa0fe307d3f25b9127fa15ffaac36.jar" />
+    </item>
+    <item
+        jar="/home/abhijay/Base64ED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-51057430c41e4b2e759143cf3fffd0306e4999c1.jar" />
+    </item>
+    <item
+        jar="/home/abhijay/Base64ED/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/debug/classes-dd74d65bf0e3a4838b6587f8b11bc85df3c30b56.jar" />
+    </item>
+
+</items>

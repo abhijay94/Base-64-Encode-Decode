@@ -1,0 +1,5 @@
+/home/abhijay/Base64ED/app/build/intermediates/classes/release
+/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-1f74c761a90200ceb4f1255ce0bb28af4f7e6c10.jar
+/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-51057430c41e4b2e759143cf3fffd0306e4999c1.jar
+/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/release/classes-6ec444f64d794ed607eceb4afa9b679162db2e43.jar
+/home/abhijay/Base64ED/app/build/intermediates/pre-dexed/release/classes-58b00526c0aaa0fe307d3f25b9127fa15ffaac36.jar

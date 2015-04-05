@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">Décoder</string>
+    <string name="but_enc">Encoder</string>
+    <string name="clip_copy">Copier dans le Clipboard</string>
+    <string name="clip_paste">Coller à partir du Clipboard</string>
+    <string name="code">CODE</string>
+    <string name="code_hint">Entrez le Code Ici</string>
+    <string name="result">BASE64 RÉSULTAT</string>
+    <string name="result_hint">Le résultat est là!</string>
+    <string name="share">Partager Résultat</string>
+</resources>

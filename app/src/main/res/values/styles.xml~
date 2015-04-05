@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MyTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+  
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="header_bg">#DC6F58</color>	
+	<color name="screen_bg">#A4A4A4</color>	
+	
+	<color name="black">#000000</color>	
+	<color name="white">#FFFFFF</color>	
+	<color name="transparent">#00000000</color>	
+	<color name="semi_tansparent">#80E9E9E9</color>	
+	
+	<color name="blue_light">#2887B5</color>	
+	<color name="blue_dark">#023046</color>	
+	
+	<color name="grey">#E9E9E9</color>	
+	<color name="grey_dark">#333333</color>	
+	<color name="grey_light">#C1C4C9</color>
+	
+		
+	
+</resources>

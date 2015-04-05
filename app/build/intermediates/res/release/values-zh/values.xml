@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/abhijay/Base64ED/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">解码</string>
+    <string name="but_enc">编码</string>
+    <string name="clip_copy">复制到剪贴板</string>
+    <string name="clip_paste">从剪贴板粘贴</string>
+    <string name="code">码</string>
+    <string name="code_hint">输入代码这里</string>
+    <string name="result">结果</string>
+    <string name="result_hint">结果去这里！</string>
+    <string name="share">分享结果</string>
+</resources>

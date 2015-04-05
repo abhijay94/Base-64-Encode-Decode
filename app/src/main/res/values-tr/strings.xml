@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">Decode</string>
+    <string name="but_enc">Kodlamak</string>
+    <string name="clip_copy">Panoya Kopyala</string>
+    <string name="clip_paste">Pano Yapıştır</string>
+    <string name="code">KODU</string>
+    <string name="code_hint">İşte Kodunu Girin</string>
+    <string name="result">SONUÇ</string>
+    <string name="result_hint">Sonuç İşte!</string>
+    <string name="share">Hisse Sonucu</string>
+</resources>

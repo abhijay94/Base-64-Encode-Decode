@@ -1,0 +1,3 @@
+<style name="MyTheme" parent="@style/Base.V21.Theme.AppCompat">
+        <!-- Any customizations for your app running on devices with Theme.Holo here -->
+    </style>

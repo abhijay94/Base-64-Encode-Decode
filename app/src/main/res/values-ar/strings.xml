@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">فك شفرة</string>
+    <string name="but_enc">حظيرة</string>
+    <string name="clip_copy">نسخ إلى الحافظة</string>
+    <string name="clip_paste">لصق من الحافظة</string>
+    <string name="code">قانون</string>
+    <string name="code_hint">الكود هنا</string>
+    <string name="result">النتيجة</string>
+    <string name="result_hint">النتيجة هنا يذهب!</string>
+    <string name="share">سهم النتيجة</string>
+</resources>

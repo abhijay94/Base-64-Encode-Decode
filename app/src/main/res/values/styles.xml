@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MyTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="editText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/grey_dark</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:background">@drawable/bg_text</item>
+        <item name="android:singleLine">true</item></style>
+  
+</resources>

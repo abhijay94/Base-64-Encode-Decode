@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">декодировать</string>
+    <string name="but_enc">кодировать</string>
+    <string name="clip_copy">Копировать в буфер обмена</string>
+    <string name="clip_paste">Вставить из буфера обмена</string>
+    <string name="code">КОД</string>
+    <string name="code_hint">Введите код здесь</string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="result_hint">Результат здесь!</string>
+    <string name="share">Поделиться Результат</string>
+</resources>

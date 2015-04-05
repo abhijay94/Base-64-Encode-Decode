@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 ED</string>
+    <string name="but_dec">デコード</string>
+    <string name="but_enc">エンコード</string>
+    <string name="clip_copy">クリップボードにコピー</string>
+    <string name="clip_paste">クリップボードから貼り付け</string>
+    <string name="code">暗証 	 </string>
+    <string name="code_hint">ここにコードを入力してください</string>
+    <string name="result">結果</string>
+    <string name="result_hint">結果はこちら！</string>
+    <string name="share">シェア結果</string>
+</resources>
