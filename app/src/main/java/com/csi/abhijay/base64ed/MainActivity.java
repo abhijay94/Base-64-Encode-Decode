@@ -1,3 +1,8 @@
+/*
+  Base 64 Encode Decode
+  Copyright 2015 Abhijay
+  Author: Abhijay Kumar
+*/
 package com.csi.abhijay.base64ed;
 
 import android.annotation.SuppressLint;
