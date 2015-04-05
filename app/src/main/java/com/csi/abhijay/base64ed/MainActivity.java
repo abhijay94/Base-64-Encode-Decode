@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method stub
+                // Shares the coverted result via other apps
                 Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
                 sharingIntent.setType("text/plain");
                 String shareBody = Result.getText().toString();
@@ -59,10 +59,10 @@ public class MainActivity extends ActionBarActivity {
 
         btnCopy.setOnClickListener(new OnClickListener() {
 
-
             @SuppressLint("NewApi")
             @Override
             public void onClick(View arg0) {
+                //Copies the text to clipboard
                 String text = Result.getText().toString().trim();
                 if (text.length() > 0) {
                     if (android.os.Build.VERSION.SDK_INT < android.os.Build.VERSION_CODES.HONEYCOMB) {
@@ -84,8 +84,8 @@ public class MainActivity extends ActionBarActivity {
 
         btnPaste.setOnClickListener(new OnClickListener() {
 
-
             public void onClick(View v) {
+                //Pastes the content of the clipboard
                 final ClipboardManager clipBoard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
 
                 Code.setText(clipBoard.getText());
@@ -98,7 +98,7 @@ public class MainActivity extends ActionBarActivity {
         btnEncode.setOnClickListener(new OnClickListener() {
 
             public void onClick(View v) {
-
+                //Encode the Input
                 input = Code.getText().toString();
 
                 byte[] data;
@@ -121,7 +121,7 @@ public class MainActivity extends ActionBarActivity {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method stub
+                // Decodes the input
                 input = Code.getText().toString();
 
 
@@ -130,11 +130,10 @@ public class MainActivity extends ActionBarActivity {
                     String text = new String(data, "UTF-8");
                     Result.setText(text);
                 } catch (UnsupportedEncodingException e) {
-                    // TODO Auto-generated catch block
-
                     e.printStackTrace();
                 } catch (IllegalArgumentException ar){
                     ar.printStackTrace();
+                    //Illegal Padding Exception in case of Base64
                     Toast.makeText(getApplicationContext(), "Unsupported Text",
                             Toast.LENGTH_SHORT).show();
                 }
@@ -145,7 +144,7 @@ public class MainActivity extends ActionBarActivity {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method stub
+                // Resets or Clears the EditText
                 Code.setText("");
 
             }
